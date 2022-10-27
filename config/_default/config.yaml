@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-theme: Academic
+theme: Wowchemy
 title: Kelvin Titimbo # Website name
 description: My website
 baseURL: 'https://ktitimbo.github.io' # Website URL
