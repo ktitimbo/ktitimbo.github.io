@@ -28,24 +28,24 @@ interests:
   - Semiclassical methods
   - Foundations of quantum mechanics
 
-# Education to show in About widget
+# Education to show in About widget 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+  - course: PhD in Physics
+    institution: Università degli studi di Trieste
+    year: 2015
+  - course: MSc in Physics
+    institution: Universidad Simón Bolívar
+    year: 2012
+  - course: BSc in Physics
+    institution: Universidad Simón Bolívar
+    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-social:
+<!-- social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
@@ -63,7 +63,30 @@ social:
     link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/ -->
+
+
+social:
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:titimbo@caltech.edu'  # For a direct email link, use "mailto:test@example.org".
+  display:
+    header: true
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=UsdCKz8AAAAJ&hl=en
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-4700-3482
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Kelvin_Titimbo
+- icon: github
+  icon_pack: fab
+  link: https://github.com/ktitimbo
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/ktitimbo/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
@@ -79,8 +102,15 @@ email: ''
 highlight_name: true
 ---
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a postdoctoral research fellow in The Andrew and Peggy Cherng Department of Medical Engineering at Caltech. I have a PhD in Physics in the area of Theoretical Quantum Physics, Models and Mathematical Methods.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My research interests center around quantum optics and condensed matter physics: the interaction of light with matter and their dynamical systems, in particular dynamics in open quantum systems. These topics can be characterized as research at boundaries between classical and quantum realms.
+
+Besides scientific research, I am also interested in education and outreach activities.
+
+
+<!-- Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. -->
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
