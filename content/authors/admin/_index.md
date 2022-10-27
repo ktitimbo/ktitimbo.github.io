@@ -1,30 +1,32 @@
 ---
 # Display name
-title: Alice Bighetti 吳恩達
+title: Kelvin Titimbo
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Bighetti
+first_name: Kelvin
+last_name: Titimbo
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Caltech
+    url: https://www.caltech.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Quantum optics
+  - Open quantum systems
+  - Quantum correlations
+  - Semiclassical methods
+  - Foundations of quantum mechanics
 
 # Education to show in About widget
 education:
