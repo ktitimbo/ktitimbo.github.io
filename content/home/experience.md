@@ -60,6 +60,14 @@ experience:
     date_start : '2017-03-08'
     date_end : '2021-06-30'
     description : Atomic physics, semiclassical methods, electron dynamics, photodetachment rate and microscopy.
+    
+  - title : Junior Postdoc
+    company : Centro Brasileiro de Pesquisas Fisicas'
+    company_url : 'https://portal.cbpf.br/pt-br/'
+    location : Rio de Janeiro, Brazil
+    date_start : '2019-06-01'
+    date_end : '2020-05-31'
+    description : Semiclassical methods, Phase space representation of quantum dynamics.
 
   - title : Research Trainee
     company : University of Trieste & International Centre for Theoretical Physics
@@ -69,13 +77,7 @@ experience:
     date_end : '2016-01-31'
     description : Open Quantum Systems, Quantum Correlations, Radiation-Matter Interaction, Pump and Probe Experiments.
 
-  - title : Junior Postdoc
-    company : Centro Brasileiro de Pesquisas Fisicas'
-    company_url : 'https://portal.cbpf.br/pt-br/'
-    location : Rio de Janeiro, Brazil
-    date_start : '2019-06-01'
-    date_end : '2020-05-31'
-    description : Semiclassical methods, Phase space representation of quantum dynamics.
+
 
 design:
   columns: '2'
