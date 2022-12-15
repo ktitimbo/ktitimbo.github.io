@@ -38,13 +38,6 @@ item:
 #    date_end = "2020-05-31"
 #    description = "Centro Brasileiro de Pesquisas Fisicas"  
 
-#  - organization = "International Centre for Theoretical Physics"
-#    organization_url = "https://www.ictp.it/"
-#    title = "TRIL Fellowship"
-#    date_start = "2015-07-01"
-#    date_end = "2016-01-31"
-#    description = "Università degli studi di Trieste"
-
 #   - certificate_url: https://www.coursera.org
 #     date_end: ''
 #     date_start: '2021-01-25'
@@ -69,6 +62,12 @@ item:
      organization_url: https://www.datacamp.com
      title: 'Object-Oriented Programming in R'
      url: ''
+  - organization = "International Centre for Theoretical Physics"
+    organization_url = "https://www.ictp.it/"
+    title = "TRIL Fellowship"
+    date_start = "2015-07-01"
+    date_end = "2016-01-31"
+    description = "Università degli studi di Trieste"
 
 design:
   columns: '2'
