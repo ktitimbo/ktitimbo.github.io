@@ -54,7 +54,7 @@ content:
     - icon: skype
       icon_pack: fab
       name: Skype Me
-      link: 'https://zoom.com'
+      link: 'skype:k.titimbo?call'
 
 design:
   columns: '2'
