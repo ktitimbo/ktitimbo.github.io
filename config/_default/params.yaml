@@ -95,7 +95,7 @@ features:
       index_name: ''
       show_logo: false
   map:
-    provider: ''
+    provider: 3
     api_key: ''
     zoom: 15
 
