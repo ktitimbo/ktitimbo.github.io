@@ -35,8 +35,8 @@ content:
     country: United States
     country_code: US
   coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
+    latitude: '34.13818'
+    longitude: '-118.12474'
   directions: Keck Building, Office 209
   # office_hours:
   #   - 'Monday 10:00 to 13:00'
