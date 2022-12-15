@@ -57,7 +57,8 @@ item:
   date_start: '2020-07-01'
   description: ''
   organization: DataCamp
-  organization_url: https://www.datacamp.com     title: 'Object-Oriented Programming in R'
+  organization_url: https://www.datacamp.com     
+  title: 'Object-Oriented Programming in R'
   url: ''
 # - certificate_url: ''
 #   title = 'TRIL Fellowship'
