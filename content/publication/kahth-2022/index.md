@@ -29,7 +29,7 @@ abstract: "The multi-stage Stern–Gerlach experiment conducted by Frisch and Se
 # Summary. An optional shortened abstract.
 # summary: ""
 
-tags: []
+tags: ["Majorana transitions","Electron spin","quantum dynamics"]
 categories: []
 featured: false
 
