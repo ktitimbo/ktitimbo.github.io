@@ -52,8 +52,8 @@ content:
       name: Zoom Me
       link: 'https://zoom.com'
     - icon: skype
-      icon_pack: fas
-      name: Zoom Me
+      icon_pack: fab
+      name: Skype Me
       link: 'https://zoom.com'
 
 design:
