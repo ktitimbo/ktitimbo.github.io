@@ -30,14 +30,12 @@ item:
 #    date_start = '2019-01-01'
 #    date_end = '2020-12-31'
 #    description = Category C Promising Young International Scientist
-    
 #  - organization = "The World Academy of Sciences"
 #    organization_url = "https://twas.org/"
 #    title = "TWAS-CNPq Pos-Doutorado Junior"
 #    date_start = "2019-06-01"
 #    date_end = "2020-05-31"
 #    description = "Centro Brasileiro de Pesquisas Fisicas"  
-
 #   - certificate_url: https://www.coursera.org
 #     date_end: ''
 #     date_start: '2021-01-25'
