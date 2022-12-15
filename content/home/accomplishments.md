@@ -29,7 +29,7 @@ item:
     title = CAS President's International Fellowship Initiative
     date_start = '2019-01-01'
     date_end = '2020-12-31'
-    description = Category C: Promising Young International Scientist
+    description = Category C Promising Young International Scientist
     
 #  - organization = "The World Academy of Sciences"
 #    organization_url = "https://twas.org/"
