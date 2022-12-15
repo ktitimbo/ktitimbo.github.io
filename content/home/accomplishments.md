@@ -62,12 +62,12 @@ item:
      organization_url: https://www.datacamp.com
      title: 'Object-Oriented Programming in R'
      url: ''
-  - organization = "International Centre for Theoretical Physics"
-    organization_url = "https://www.ictp.it/"
-    title = "TRIL Fellowship"
-    date_start = "2015-07-01"
-    date_end = "2016-01-31"
-    description = "Università degli studi di Trieste"
+  - organization = International Centre for Theoretical Physics
+    organization_url = https://www.ictp.it/
+    title = TRIL Fellowship
+    date_start = '2015-07-01'
+    date_end = '2016-01-31'
+    description = 'Universita degli studi di Trieste'
 
 design:
   columns: '2'
