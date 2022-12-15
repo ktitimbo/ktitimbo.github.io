@@ -24,12 +24,12 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - organization = "Chinese Academy of Sciences"
-    organization_url = "https://english.cas.cn/"
-    title = "CAS President's International Fellowship Initiative"
-    date_start = "2019-01-01"
-    date_end = "2020-12-31"
-    description = "Category C: Promising Young International Scientist"
+  - organization = Chinese Academy of Sciences
+    organization_url = https://english.cas.cn/
+    title = CAS President's International Fellowship Initiative
+    date_start = '2019-01-01'
+    date_end = '2020-12-31'
+    description = Category C: Promising Young International Scientist
     
 #  - organization = "The World Academy of Sciences"
 #    organization_url = "https://twas.org/"
