@@ -26,9 +26,9 @@ summary: We introduce the Truncated Chord Approximation via the symplectic Fouri
 
 # Tags
 tags:
-- Semiclassical Methods
+- Semiclassical methods
 - Phase Space Dynamics
-- Chord Function
+- Chord function
 
 # Is this a selected publication? (true/false)
 featured: false
