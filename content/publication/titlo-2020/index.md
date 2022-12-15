@@ -42,8 +42,8 @@ highlight : true
 links:
 doi: "10.1088/1402-4896/abcbc9"
 # - name: Custom Link
-url: https://iopscience.iop.org/article/10.1088/1402-4896/abcbc9
-# url_pdf: https://iopscience.iop.org/article/10.1088/1402-4896/abcbc9
+# url: https://iopscience.iop.org/article/10.1088/1402-4896/abcbc9
+url_pdf: https://iopscience.iop.org/article/10.1088/1402-4896/abcbc9
 url_preprint: https://arxiv.org/abs/2005.10552
 # url_code: '#'
 # url_dataset: '#'
