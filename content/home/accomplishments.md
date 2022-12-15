@@ -62,7 +62,8 @@ item:
      organization_url: https://www.datacamp.com
      title: 'Object-Oriented Programming in R'
      url: ''
-  - title = TRIL Fellowship
+  - certificate_url: ''
+    title = TRIL Fellowship
     organization = International Centre for Theoretical Physics
     organization_url = https://www.ictp.it/
     date_start = '2015-07-01'
