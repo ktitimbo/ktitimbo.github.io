@@ -31,19 +31,19 @@ item:
     date_end = "2020-12-31"
     description = "Category C: Promising Young International Scientist"
     
-  - organization = "The World Academy of Sciences"
-    organization_url = "https://twas.org/"
-    title = "TWAS-CNPq Pos-Doutorado Junior"
-    date_start = "2019-06-01"
-    date_end = "2020-05-31"
-    description = "Centro Brasileiro de Pesquisas Fisicas"  
+#  - organization = "The World Academy of Sciences"
+#    organization_url = "https://twas.org/"
+#    title = "TWAS-CNPq Pos-Doutorado Junior"
+#    date_start = "2019-06-01"
+#    date_end = "2020-05-31"
+#    description = "Centro Brasileiro de Pesquisas Fisicas"  
 
-  - organization = "International Centre for Theoretical Physics"
-    organization_url = "https://www.ictp.it/"
-    title = "TRIL Fellowship"
-    date_start = "2015-07-01"
-    date_end = "2016-01-31"
-    description = "Università degli studi di Trieste"
+#  - organization = "International Centre for Theoretical Physics"
+#    organization_url = "https://www.ictp.it/"
+#    title = "TRIL Fellowship"
+#    date_start = "2015-07-01"
+#    date_end = "2016-01-31"
+#    description = "Università degli studi di Trieste"
 
 #   - certificate_url: https://www.coursera.org
 #     date_end: ''
