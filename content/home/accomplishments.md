@@ -50,7 +50,7 @@ item:
 #  url: ''
 - title : 'TRIL Fellowship'
   organization : International Centre for Theoretical Physics
-  org_logo: org-ictp
+  icon: org-ictp
   organization_url : https://www.ictp.it/
   date_start : '2015-07-01'
   date_end : '2016-01-31'
