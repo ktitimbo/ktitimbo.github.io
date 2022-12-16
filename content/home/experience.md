@@ -56,6 +56,7 @@ experience:
 
   - title : Research Assistant
     company : Institute of Theoretical Physics, Chinese Academy of Sciences
+    company_logo: org-itpcas
     company_url : 'http://www.itp.ac.cn/'
     location : Beijing, China
     date_start : '2017-03-08'
@@ -73,6 +74,7 @@ experience:
 
   - title : Research Trainee
     company : University of Trieste & International Centre for Theoretical Physics
+    company_logo: org-units
     company_url : 'https://www.units.it'
     location : Trieste, Italy
     date_start : '2015-07-01'
