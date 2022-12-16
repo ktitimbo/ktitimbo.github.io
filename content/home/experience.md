@@ -47,6 +47,7 @@ experience:
     
   - title : Postdoctoral Researcher
     company : California Institute of Technology
+    company_logo: org-caltech
     company_url : 'http://www.caltech.edu/'
     location : Pasadena CA, USA
     date_start : '2021-09-01'
@@ -63,6 +64,7 @@ experience:
     
   - title : Junior Postdoc
     company : Centro Brasileiro de Pesquisas Fisicas'
+    company_logo: org-cbpf
     company_url : 'https://portal.cbpf.br/pt-br/'
     location : Rio de Janeiro, Brazil
     date_start : '2019-06-01'
