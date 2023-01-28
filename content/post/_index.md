@@ -1,6 +1,6 @@
 ---
 title: Posts
-activate : false
+activate: true
 cms_exclude: true
 
 # View.
