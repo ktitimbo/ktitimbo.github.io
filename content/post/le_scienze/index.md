@@ -40,4 +40,4 @@ categories:
 ---
 
 
-Press article (in italian) about my doctoral thesis  [**here**]([https://wowchemy.com/templates/](https://www.lescienze.it/lanci/2016/02/09/news/universita_di_trieste_proprieta_quantistiche_delle_vibrazioni_nei_cristalli-2965259/))
+Press article (in italian) about my doctoral thesis  [**here**](https://www.lescienze.it/lanci/2016/02/09/news/universita_di_trieste_proprieta_quantistiche_delle_vibrazioni_nei_cristalli-2965259/)
