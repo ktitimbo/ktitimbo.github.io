@@ -4,7 +4,7 @@ subtitle:
   Università di Trieste: Proprietà quantistiche delle vibrazioni nei cristalli
 
 # Summary for listings and search engines
-summary: Università di Trieste uantum properties of vibrations in crystals.
+summary: Università di Trieste Proprietà quantistiche delle vibrazioni nei cristallis
 
 # Link this post with a project
 projects: []
