@@ -49,8 +49,7 @@ item:
 #  title: 'Object-Oriented Programming in R'
 #  url: ''
 - title : 'TRIL Fellowship'
-  organization : ICTP Logo 
-  # International Centre for Theoretical Physics
+  organization : International Centre for Theoretical Physics
   logo: org-ictp
   organization_url : https://www.ictp.it/
   date_start : '2015-07-01'
