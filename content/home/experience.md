@@ -64,7 +64,7 @@ experience:
     description : Atomic physics, semiclassical methods, electron dynamics, photodetachment rate and microscopy.
     
   - title : Junior Postdoc
-    company : Centro Brasileiro de Pesquisas Fisicas'
+    company : Centro Brasileiro de Pesquisas Fisicas
     company_logo: org-cbpf
     company_url : 'https://portal.cbpf.br/pt-br/'
     location : Rio de Janeiro, Brazil
