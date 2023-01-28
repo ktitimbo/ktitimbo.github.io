@@ -104,7 +104,7 @@ highlight_name: true
 
 <p style="text-align:justify"> I am a postdoctoral research fellow in The Andrew and Peggy Cherng Department of Medical Engineering at Caltech. I have a PhD in Physics in the area of Theoretical Quantum Physics, Models and Mathematical Methods.
 
-<p style="text-align:justify">  My research interests center around quantum optics and condensed matter physics: the interaction of light with matter and their dynamical systems, in particular dynamics in open quantum systems. These topics can be characterized as research at boundaries between classical and quantum realms.
+<p style="text-align:justify">  My research interests center around quantum optics and condensed matter physics: the interaction of light with matter and their dynamics, in particular those described within the open quantum system formalism. These topics can be characterized as research at boundaries between classical and quantum realms.
 
 <p style="text-align:justify">  Besides scientific research, I am also interested in education and outreach activities.
 
