@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: >
+    notice: >-
       "© {year} Kelvin Titimboooo.\n"
       "This work is licensed under {license}"
     license:
