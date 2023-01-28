@@ -20,13 +20,14 @@ marketing:
     org_name: ''
     # description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
     description: "Kelvin Titimbo's webpage. Theoretical Physicist."
-    twitter: 'wowchemy'
+    twitter: 'ktitimbo'
   analytics:
     google_analytics: 'G-17H78CJTW5'
     baidu_tongji: ''
   verification:
     google: ''
     baidu: ''
+    bing: ''
 
 # Site header
 
