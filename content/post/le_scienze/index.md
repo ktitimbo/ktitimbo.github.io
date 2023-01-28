@@ -30,13 +30,14 @@ image:
 
 authors: 
   - admin
+  - ktitimbo
 
 tags: 
   - Academic
 
 
 categories: 
-  - Demo
+  - Press
 ---
 
 
