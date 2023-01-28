@@ -30,11 +30,9 @@ image:
 
 authors: 
   - admin
-  - ktitimbo
 
 tags: 
   - Academic
-
 
 categories: 
   - Press
