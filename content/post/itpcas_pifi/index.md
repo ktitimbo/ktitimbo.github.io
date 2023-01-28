@@ -1,6 +1,6 @@
 ---
 title: My postdoctoral story at ITP
-subtitle: "Università di Trieste: Proprietà quantistiche delle vibrazioni nei cristalli"
+subtitle: My experience at ITP-CAS
 
 # Summary for listings and search engines
 summary: My postdoctoral story at ITP
