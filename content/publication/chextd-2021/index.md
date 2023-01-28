@@ -12,6 +12,6 @@ abstract: "The closed-orbit theory is used for the study of the photodetachment 
 tags: ["Semiclassical Approximation","Photodetachment Microscopy","Closed-orbit theory"]
 
 math: true
-highlight: true
+highlight: false
 ---
 
