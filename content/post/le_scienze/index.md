@@ -1,6 +1,7 @@
 ---
 title: Quantum properties of vibrations in crystals
-subtitle: Università di Trieste: 
+subtitle: 
+  Università di Trieste: holi
 
 # Summary for listings and search engines
 summary: Università di Trieste uantum properties of vibrations in crystals.
