@@ -45,9 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: "this is my very very \"very\" loooo\
-  ng string.\n\nLove, YAML."
-    #"© {year} Kelvin Titimbo.\n"\n"This work is licensed under {license}"
+    notice: "© {year} Kelvin Titimbo.\nThis work is licensed under {license}"
     license:
       enable: true
       allow_derivatives: false
