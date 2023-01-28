@@ -3,7 +3,7 @@ title: Quantum properties of vibrations in crystals
 subtitle: Università di Trieste: Proprietà quantistiche delle vibrazioni nei cristalli
 
 # Summary for listings and search engines
-summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+summary: Università di Trieste: Proprietà quantistiche delle vibrazioni nei cristalli
 
 # Link this post with a project
 projects: []
@@ -45,6 +45,8 @@ import libr
 print('hello')
 ```
 Press article (in italian) about my doctoral thesis  [**here**]([https://wowchemy.com/templates/](https://www.lescienze.it/lanci/2016/02/09/news/universita_di_trieste_proprieta_quantistiche_delle_vibrazioni_nei_cristalli-2965259/))
+
+
 ## Overview
 
 1. The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
