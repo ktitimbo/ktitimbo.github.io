@@ -1,10 +1,9 @@
 ---
 title: Quantum properties of vibrations in crystals
-subtitle: 
-  Università di Trieste Proprietà quantistiche delle vibrazioni nei cristalli
+subtitle: "Università di Trieste: Proprietà quantistiche delle vibrazioni nei cristalli"
 
 # Summary for listings and search engines
-summary: Università di Trieste Proprietà quantistiche delle vibrazioni nei cristallis
+summary: "Università di Trieste: Proprietà quantistiche delle vibrazioni nei cristalli"
 
 # Link this post with a project
 projects: []
