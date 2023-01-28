@@ -50,7 +50,6 @@ item:
 #  url: ''
 - title : 'TRIL Fellowship'
   organization : International Centre for Theoretical Physics
-  logo: org-ictp
   organization_url : https://www.ictp.it/
   date_start : '2015-07-01'
   date_end : '2016-01-31'
@@ -63,7 +62,6 @@ item:
   date_end : '2020-12-31'
   description : 'Category C: Promising Young International Scientist'
 - organization : "The World Academy of Sciences"
-  icon: org-ictp
   organization_url : "https://twas.org/"
   title : "TWAS-CNPq Pos-Doutorado Junior"
   date_start : "2019-06-01"
