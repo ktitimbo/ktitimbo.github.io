@@ -1,5 +1,5 @@
 ---
-# An instance of the Accomplishment widget.
+# An instance of the Experience widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: experience
 
@@ -52,7 +52,11 @@ experience:
     location : Caracas, Venezuela
     date_start : '2016-04-01'
     date_end : '2016-12-31'
-    description : Quantum optics, Radiation-matter interaction, Foundations of quantum mechanics.
+    description : |2-
+        Taught Electromagnetism to science and engineering students.
+        
+        Responsabilities include:
+          * holi
 
   - title : Instructor
     company : Universidad Simón Bolívar
@@ -63,7 +67,7 @@ experience:
     date_end : '2011-03-31'
     description : Atomic physics, semiclassical methods, electron dynamics, photodetachment rate and microscopy.
     
-  - title : Junior Postdoc
+<!--   - title : Junior Postdoc
     company : Centro Brasileiro de Pesquisas Fisicas
     company_logo: org-cbpf
     company_url : 'https://portal.cbpf.br/pt-br/'
@@ -79,7 +83,7 @@ experience:
     location : Trieste, Italy
     date_start : '2015-07-01'
     date_end : '2016-01-31'
-    description : Open Quantum Systems, Quantum Correlations, Radiation-Matter Interaction, Pump and Probe Experiments.
+    description : Open Quantum Systems, Quantum Correlations, Radiation-Matter Interaction, Pump and Probe Experiments. -->
 
 
 
