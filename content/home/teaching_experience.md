@@ -44,7 +44,22 @@ experience:
 #    date_start: '2016-01-01'
 #    date_end: '2020-12-31'
 #    description: Taught electronic engineering and researched semiconductor physics. -->
-    
+
+  - title : Lecturer
+    company : Institute of Theoretical Physics, Chinese Academy of Sciences
+    company_logo: org-itpcas
+    company_url : 'http://english.itp.cas.cn/'
+    location : Beijing, China
+    date_start : '2016-04-01'
+    date_end : '2016-12-31'
+    description : |2-
+      Responsabilities include:
+        * Teaching classical electromagnetism to science and engineering students.
+          * Syllabus design.  
+          * Design, develop, and deliver material using a range of methods and platforms according to the topics.
+          * Prepare and oversee examinations.
+          * Grade homeworks, tests, and final exams.
+
   - title : Lecturer
     company : Universidad Simón Bolívar
     company_logo: org-usb
@@ -54,20 +69,26 @@ experience:
     date_end : '2016-12-31'
     description : |2-
       Responsabilities include:
-        * Teaching electromagnetism to science and engineering students.
+        * Teaching classical electromagnetism to science and engineering students.
           * Syllabus design.  
-          * Design, develop, and deliver material using a range of methods and platforms.
-          * Oversee examinations
-          * Grade homeworks, tests, abd final exams.
+          * Design, develop, and deliver material using a range of methods and platforms according to the topics.
+          * Prepare and oversee examinations.
+          * Grade homeworks, tests, and final exams.
 
   - title : Instructor
     company : Universidad Simón Bolívar
     company_logo: org-usb
     company_url : 'http://www.usb.ve/'
     location : Caracas, Venezuela
-    date_start : '2010-01-01'
+    date_start : '2009-01-01'
     date_end : '2011-03-31'
-    description : Atomic physics, semiclassical methods, electron dynamics, photodetachment rate and microscopy.
+    description : |2-
+      Responsabilities include:
+        * Teaching introductory theoretical and lab courses to science and engineering students.  
+          * Syllabus design.
+          * Design, develop, and deliver material using a range of methods and platforms according to the content of the courses
+          * Prepare and oversee examinations.
+          * Grade homeworks, tests, and final exams.
 
 design:
   columns: '2'
