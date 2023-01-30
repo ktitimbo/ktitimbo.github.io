@@ -47,20 +47,20 @@ experience:
     
   - title : Lecturer
     company : Universidad Simón Bolívar
-    company_logo: org-caltech
+    company_logo: org-usb
     company_url : 'http://www.usb.ve/'
-    location : Caracas DC, Venezuela
-    date_start : '2010-01-01'
-    date_end : '2011-01-31'
+    location : Caracas, Venezuela
+    date_start : '2016-04-01'
+    date_end : '2016-12-31'
     description : Quantum optics, Radiation-matter interaction, Foundations of quantum mechanics.
 
   - title : Instructor
-    company : Institute of Theoretical Physics, Chinese Academy of Sciences
-    company_logo: org-itpcas
-    company_url : 'http://www.itp.ac.cn/'
-    location : Beijing, China
-    date_start : '2017-03-08'
-    date_end : '2021-06-30'
+    company : Universidad Simón Bolívar
+    company_logo: org-usb
+    company_url : 'http://www.usb.ve/'
+    location : Caracas, Venezuela
+    date_start : '2010-01-01'
+    date_end : '2011-03-31'
     description : Atomic physics, semiclassical methods, electron dynamics, photodetachment rate and microscopy.
     
   - title : Junior Postdoc
