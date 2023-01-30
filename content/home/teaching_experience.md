@@ -53,9 +53,12 @@ experience:
     date_start : '2016-04-01'
     date_end : '2016-12-31'
     description : |2-
-      Taught Electromagnetism to science and engineering students.\n
       Responsabilities include:
-        * holi
+        * Teaching electromagnetism to science and engineering students.
+          * Syllabus design.  
+          * Design, develop, and deliver material using a range of methods and platforms.
+          * Oversee examinations
+          * Grade homeworks, tests, abd final exams.
 
   - title : Instructor
     company : Universidad Simón Bolívar
