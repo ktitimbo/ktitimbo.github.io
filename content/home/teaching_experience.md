@@ -45,13 +45,13 @@ experience:
 #    date_end: '2020-12-31'
 #    description: Taught electronic engineering and researched semiconductor physics. -->
 
-  - title : Lecturer
+  - title : Assistant
     company : Institute of Theoretical Physics, Chinese Academy of Sciences
     company_logo: org-itpcas
     company_url : 'http://english.itp.cas.cn/'
     location : Beijing, China
-    date_start : '2016-04-01'
-    date_end : '2016-12-31'
+    date_start : '2018-01-01'
+    date_end : '2019-05-31'
     description : |2-
       Responsabilities include:
         * Teaching classical electromagnetism to science and engineering students.
@@ -59,6 +59,7 @@ experience:
           * Design, develop, and deliver material using a range of methods and platforms according to the topics.
           * Prepare and oversee examinations.
           * Grade homeworks, tests, and final exams.
+
 
   - title : Lecturer
     company : Universidad Simón Bolívar
