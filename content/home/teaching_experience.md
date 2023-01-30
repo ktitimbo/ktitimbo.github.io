@@ -65,26 +65,6 @@ experience:
     date_start : '2010-01-01'
     date_end : '2011-03-31'
     description : Atomic physics, semiclassical methods, electron dynamics, photodetachment rate and microscopy.
-    
-<!--   - title : Junior Postdoc
-    company : Centro Brasileiro de Pesquisas Fisicas
-    company_logo: org-cbpf
-    company_url : 'https://portal.cbpf.br/pt-br/'
-    location : Rio de Janeiro, Brazil
-    date_start : '2019-06-01'
-    date_end : '2020-05-31'
-    description : Semiclassical methods, Phase space representation of quantum dynamics.
-
-  - title : Research Trainee
-    company : University of Trieste & International Centre for Theoretical Physics
-    company_logo: org-units
-    company_url : 'https://www.units.it'
-    location : Trieste, Italy
-    date_start : '2015-07-01'
-    date_end : '2016-01-31'
-    description : Open Quantum Systems, Quantum Correlations, Radiation-Matter Interaction, Pump and Probe Experiments. -->
-
-
 
 design:
   columns: '2'
