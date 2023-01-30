@@ -47,7 +47,7 @@ experience:
     
   - title : Lecturer
     company : Universidad Simón Bolívar
-    company_logo: org-usb
+    company_logo: org-caltech
     company_url : 'http://www.usb.ve/'
     location : Caracas DC, Venezuela
     date_start : '2010-01-01'
