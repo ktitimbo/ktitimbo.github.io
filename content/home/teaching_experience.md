@@ -53,10 +53,9 @@ experience:
     date_start : '2016-04-01'
     date_end : '2016-12-31'
     description : |2-
-        Taught Electromagnetism to science and engineering students.
-        
-        Responsabilities include:
-          * holi
+      Taught Electromagnetism to science and engineering students.
+      Responsabilities include:
+        * holi
 
   - title : Instructor
     company : Universidad Simón Bolívar
