@@ -27,10 +27,12 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Deep Learning
-      tag: Deep Learning
-    - name: Other
-      tag: Demo
+    - name: Quantum physics
+      tag: Quantum physics
+    - name: Semiclassical physics
+      tag: Semiclassical physics
+    - name: Foundations of quantum mechanics
+      tag: Foundations of quantum mechanics
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
