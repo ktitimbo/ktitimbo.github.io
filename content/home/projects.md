@@ -27,11 +27,11 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Quantum physics
+    - name: Quantum
       tag: Quantum physics
-    - name: Semiclassical physics
+    - name: Semiclassical
       tag: Semiclassical physics
-    - name: Foundations of quantum mechanics
+    - name: Foundations
       tag: Foundations of quantum mechanics
 
 design:
