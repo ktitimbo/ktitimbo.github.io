@@ -54,11 +54,10 @@ experience:
     date_end : '2019-05-31'
     description : |2-
       Responsabilities include:
-        * Teaching classical electromagnetism to science and engineering students.
-          * Syllabus design.  
-          * Design, develop, and deliver material using a range of methods and platforms according to the topics.
-          * Prepare and oversee examinations.
-          * Grade homeworks, tests, and final exams.
+        * Co-supervising graduate students in their research projects.
+        * Prepare grant applications.
+        * Organize seminars.
+        * Tutorials and discussion hours on topicas as: quantum mechanics, classical mechanics, and semiclassical methods.
 
 
   - title : Lecturer
