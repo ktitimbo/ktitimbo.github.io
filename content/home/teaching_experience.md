@@ -57,7 +57,7 @@ experience:
         * Co-supervising graduate students in their research projects.
         * Prepare grant applications.
         * Organize seminars.
-        * Tutorials and discussion hours on topicas as: quantum mechanics, classical mechanics, and semiclassical methods.
+        * Tutorials and discussion hours on topic as: quantum mechanics, classical mechanics, and semiclassical methods.
 
 
   - title : Lecturer
