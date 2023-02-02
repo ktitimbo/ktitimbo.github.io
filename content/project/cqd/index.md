@@ -2,7 +2,7 @@
 title: CoQuantum Dynamics
 summary: Spin collapse in multi-stage Stern–Gerlach
 tags:
-  - Foundations
+  - Foundations of quantum mechanics
 date: '2023-02-02T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
