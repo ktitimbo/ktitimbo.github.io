@@ -1,6 +1,6 @@
 ---
 title: CoQuantum Dynamics
-summary: Spin collapse in multi-stage Stern–Gerlach
+summary: Spin collapse in multi-stage Stern–Gerlach systems
 tags:
   - Foundations of quantum mechanics
 date: '2023-02-02T00:00:00Z'
