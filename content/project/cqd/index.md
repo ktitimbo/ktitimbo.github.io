@@ -13,10 +13,10 @@ image:
   focal_point: Smart
 
 links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
+#  - icon: twitter
+#    icon_pack: fab
+#    name: Follow
+#    url: https://twitter.com/georgecushen
 url_code: ''
 url_pdf: ''
 url_slides: ''
@@ -27,7 +27,7 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+# slides: example
 ---
 
 **Die Quantenmechanik ist sehr achtung-gebietend. Aber eine innere Stimme sagt mir, dass das doch nicht der wahre Jakob ist. Die Theorie liefert viel, aber dem Ge- heimnis des Alten bringt sie uns kaum näher. Jedenfalls bin ich überzeugt, das der nicht würfelt.** [*A. Einstein to M. Born. 4 December 1926*](https://einsteinpapers.press.princeton.edu/vol15-doc/766)
