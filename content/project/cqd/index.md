@@ -3,6 +3,7 @@ title: Co-Quantum Dynamics
 summary: Spin collapse in multi-stage Stern–Gerlach systems
 tags:
   - Foundations of quantum mechanics
+  - Semiclassical methods
 date: '2023-02-02T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
@@ -30,10 +31,12 @@ url_video: ''
 # slides: example
 ---
 
-**Die Quantenmechanik ist sehr achtung-gebietend. Aber eine innere Stimme sagt mir, dass das doch nicht der wahre Jakob ist. Die Theorie liefert viel, aber dem Geheimnis des Alten bringt sie uns kaum näher. Jedenfalls bin ich überzeugt, das der nicht würfelt.** [*A. Einstein to M. Born. 4 December 1926*](https://einsteinpapers.press.princeton.edu/vol15-doc/766)
+**Die Quantenmechanik ist sehr achtung-gebietend. Aber eine innere Stimme sagt mir, dass das doch nicht der wahre Jakob ist. Die Theorie liefert viel, aber dem Geheimnis des Alten bringt sie uns kaum näher. Jedenfalls bin ich überzeugt, das der nicht würfelt.** *[A. Einstein to M. Born. 4 December 1926](https://einsteinpapers.press.princeton.edu/vol15-doc/766)*
 
 
 We are working on a semiclassical model for the electron spin wavefunction reduction in alkali atoms when interacting wit external magnetic fields.
+
+Recently [here](https://doi.org/10.1088/1361-6455/acc149)
 
 
 Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
