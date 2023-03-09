@@ -3,7 +3,7 @@ title: Co-Quantum Dynamics
 summary: Spin collapse in multi-stage Stern–Gerlach systems
 tags:
   - Foundations of quantum mechanics
-  - Semiclassical methods
+  - Semiclassical physics
 date: '2023-02-02T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
