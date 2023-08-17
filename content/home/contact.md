@@ -51,10 +51,10 @@ content:
     #   icon_pack: fas
     #   name: Zoom Me
     #   link: 'https://zoom.com'
-    - icon: skype
-      icon_pack: fab
-      name: Skype Me
-      link: 'skype:k.titimbo?call'
+    # - icon: skype
+    #   icon_pack: fab
+    #   name: Skype Me
+    #   link: 'skype:k.titimbo?call'
 
 design:
   columns: '2'
