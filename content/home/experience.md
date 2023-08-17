@@ -54,7 +54,7 @@ experience:
     date_end : ''
     description : Quantum optics, Radiation-matter interaction, Foundations of quantum mechanics.
 
-  - title : Research Assistant
+  - title : Postdoctoral Researcher – Research Assistant
     company : Institute of Theoretical Physics, Chinese Academy of Sciences
     company_logo: org-itpcas
     company_url : 'http://www.itp.ac.cn/'
